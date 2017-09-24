@@ -1,0 +1,58 @@
+body {
+	background-color: #e8edf3;
+	color: #22264b;
+}
+
+.mainTitle {
+	background-color: #e6cf8b;
+	color: #e8edf3;
+}
+
+.trainList {
+	border: 1px solid #22264b;
+}
+
+.sectionTitle {
+	background-color: #22264b;
+	color: #e8edf3;
+	margin-top: 0px;
+}
+
+.trainForm{
+	border: 1px solid #22264b;
+	padding-bottom: 20px;
+}
+
+label {
+	color: #3fb0ac;
+}
+
+
+.btn {
+	background-color: #b56969;
+		color: #e8edf3;
+
+}
+
+.input-field input[type=text]:focus + label {
+	color: #b56969 !important;
+}
+
+.row .input-field input:focus {
+   border-bottom: 1px solid #b56969 !important;
+   box-shadow: 0 1px 0 0 #b56969 !important
+ }
+
+  .btn:hover {
+ 	background-color: #e6cf8b;
+ }
+
+::-webkit-input-placeholder{
+ 	color: #e6cf8b;
+ 	opacity: 0.5;
+ }
+
+ .row .input-field label {
+ 	color: #22264b;
+ }
+
